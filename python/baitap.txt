@@ -1,0 +1,10 @@
+Hãy viết một chương trình bằng Python, mỗi lần gọi sẽ trả về một kết quả chia nhóm ngẫu nhiên 10 bạn học sinh trong môn Tin học, sao cho có 5 nhóm, mỗi nhóm 2 người.
+
+Ví dụ:
+"""
+Group 1: Tuan, Lan
+Group 2: Thien Long, Diep
+Group 3: Huy Anh, Khoi
+Group 4: Phuc, An
+Group 5: Nhat Long, Bao
+"""
